@@ -12,14 +12,20 @@
 > 한국정보기술연구원에서 주관하는 웹개발 교육 수료 (2023.10 ~ 2024.04)
 
 <div align="center">
-<br><br>
+<br>
+  
+  ### 🚀 My Projects 🚀
+🔗<a href="https://ssong9520.atlassian.net/Jira/software/projects/KAN/boards/1/timeline">![여행한지도](https://img.shields.io/badge/🏡여행한지도wiki-45B6F2?style=flat&logo=logoColor=white)</a>
 
-  ### 📚 Languages
+<br>
+
+
+  ### 📚 Languages 📚
 ![Java17](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
 <br>
 
-### 🛠Tech Stack & Tools
+### 🛠 Tech Stack & Tools 🛠
 ![HTML5](https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -30,10 +36,11 @@
 
 <br>
 
-### 🌞 Social
-🔗<a href="ltll664@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-%EA4335?style=flat&logo=gmail&logoColor=white)
+### 🌞 Social 🌞
 
-<br><br>
+🔗<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:ltll664@gmail.com"/></a>
+
+<br>
 
 </div>
 
