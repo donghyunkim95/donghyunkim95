@@ -49,8 +49,17 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=donghyunkim95&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=58A6FF&text_color=424857a&title_color=459FF5&count_private=true" width=56% /></a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=donghyunkim95&theme=react-white&bg_color=fff&hide_border=true&line=58A6FF&color=58A6FF&title_color=459FF5" width=94%/>
-</a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=donghyunkim95&theme=react-white&bg_color=fff&hide_border=true&line=58A6FF&color=58A6FF&title_color=459FF5" width=94%/></a>   
+
+<br>
+
+<div align="center">  
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonghyunkim95%2Fhit-counter&count_bg=%2371C3FF&title_bg=%23434343&icon=&icon_color=%23D4D4D4&title=Hello!&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+<br>
 
 <div class="footer">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff,50:71C3FF,100:fff&height=30&section=footer&text=&fontSize=0" width="100%"/>
