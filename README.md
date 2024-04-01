@@ -38,7 +38,7 @@
 
 ### 🌞 Social 🌞
 
-🔗<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:ltll664@gmail.com"/></a>
+🔗[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ltll664@gmail.com)](mailto:ltll664@gmail.com)
 
 <br>
 
