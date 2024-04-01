@@ -30,9 +30,9 @@
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)   
-🔗<a href="https://www.figma.com/file/OUYCIcO6q9UwA0uXuIOrz0/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%ED%9A%8C%EC%9D%98?type=design&node-id=0-1&mode=design&t=J0cXNjYCkp87VF5Y-0">![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)</a>
-🔗<a href="https://discord.com/channels/1208966548773933056/1208987683146301440">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)</a>
-🔗<a href="https://ssong9520.atlassian.net/Jira/software/projects/KAN/boards/1/timeline">![jirasoftware](https://img.shields.io/badge/jirasoftware-%23F24E1E.svg??style=flat&logo=jirasoftware&logoColor=white)</a>
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)</a>
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)</a>
+![jirasoftware](https://img.shields.io/badge/jirasoftware-%23F24E1E.svg??style=flat&logo=jirasoftware&logoColor=white)</a>
 
 <br>
 
