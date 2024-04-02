@@ -13,9 +13,16 @@
 
 <div align="center">
 <br>
+
+  ### 🙋‍♂️ About Me 🙋‍♂️
+  
+🔗<a href="https://intriguing-fern-d6e.notion.site/75b4b3e0d20f4b1795a3c815418cecba?pvs=74">![노션](https://img.shields.io/badge/Notion이력서-7fff00?style=flat&logo=notion&logoColor=black)</a>
+
+<br>
   
   ### 🚀 My Projects 🚀
-🔗<a href="https://github.com/s12171934/trip-one-zido/wiki">![여행한지도](https://img.shields.io/badge/🏡여행한지도wiki-45B6F2?style=flat&logo=logoColor=white)</a>
+🔗<a href="http://43.200.46.110)">![여행한지도](https://img.shields.io/badge/🏡여행한지도홈페이지-45B6F2?style=flat&logo=logoColor=white)</a>   
+🔗<a href="https://github.com/s12171934/trip-one-zido/wiki">![여행한지도](https://img.shields.io/badge/😺여행한지도wiki-black?style=flat&logo=logoColor=white)</a>
 
 <br>
 
@@ -33,7 +40,7 @@
 ![Vue.js](https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)   
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)</a>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)</a>
-![jirasoftware](https://img.shields.io/badge/jirasoftware-%23F24E1E.svg??style=flat&logo=jirasoftware&logoColor=white)</a>
+![jirasoftware](https://img.shields.io/badge/jirasoftware-%23F24E1E.svg??style=flat&logo=Jirasoftware&logoColor=white)</a>
 
 <br>
 
