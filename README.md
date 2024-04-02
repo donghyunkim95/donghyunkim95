@@ -21,7 +21,7 @@
 <br>
   
   ### 🚀 My Projects 🚀
-🔗<a href="http://43.200.46.110)">![여행한지도](https://img.shields.io/badge/🏡여행한지도홈페이지-45B6F2?style=flat&logo=logoColor=white)</a>   
+🔗<a href="http://43.200.46.110">![여행한지도](https://img.shields.io/badge/🏡여행한지도홈페이지-45B6F2?style=flat&logo=logoColor=white)</a>   
 🔗<a href="https://github.com/s12171934/trip-one-zido/wiki">![여행한지도](https://img.shields.io/badge/😺여행한지도wiki-black?style=flat&logo=logoColor=white)</a>
 
 <br>
