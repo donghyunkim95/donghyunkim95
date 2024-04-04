@@ -34,13 +34,15 @@
 
 ### 🛠 Tech Stack & Tools 🛠
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![Spring boot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=Springboot&logoColor=white)   
 ![HTML5](https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)   
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)</a>
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)</a>
-![jirasoftware](https://img.shields.io/badge/jirasoftware-%23F24E1E.svg??style=flat&logo=Jirasoftware&logoColor=white)</a>
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)
+![jirasoftware](https://img.shields.io/badge/jirasoftware-%230052CC.svg?style=flat&logo=jirasoftware&logoColor=white)
 
 <br>
 
